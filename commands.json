@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ping",
+    "description": "Prüft, ob der GurkenCrew Bot erreichbar ist."
+  },
+  {
+    "name": "info",
+    "description": "Zeigt Informationen zum GurkenCrew Bot."
+  }
+]
