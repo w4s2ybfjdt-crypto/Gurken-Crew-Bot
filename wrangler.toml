@@ -1,0 +1,6 @@
+name = "gurken-crew-bot"
+main = "src/index.js"
+compatibility_date = "2026-10-31"
+
+[observability]
+enabled = true
