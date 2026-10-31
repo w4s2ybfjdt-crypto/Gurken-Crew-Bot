@@ -1,0 +1,11 @@
+# Discord Developer Portal -> General Information -> Public Key
+DISCORD_PUBLIC_KEY=
+
+# Bot token. Keep this secret; never commit a real value.
+DISCORD_BOT_TOKEN=
+
+# Channel where website order/support notifications should be posted
+DISCORD_CHANNEL_ID=
+
+# Random shared secret used by the website when calling /api/website/notify
+WEBSITE_WEBHOOK_SECRET=
